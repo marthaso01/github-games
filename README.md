@@ -1,4 +1,10 @@
-## Welcome to GitHub Games - Omar Vásquez
+## Welcome to GitHub Games - msrn
+
+cambio en el branch 
+
+cambio para el revert 
+
+cambio para merge 
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
